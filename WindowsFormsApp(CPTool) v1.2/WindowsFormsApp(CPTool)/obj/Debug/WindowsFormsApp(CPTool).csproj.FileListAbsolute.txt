@@ -1,0 +1,12 @@
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\obj\Debug\WindowsFormsApp(CPTool).csprojAssemblyReference.cache
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\obj\Debug\WindowsFormsApp_CPTool_.Form1.resources
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\obj\Debug\WindowsFormsApp_CPTool_.Form2.resources
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\obj\Debug\WindowsFormsApp_CPTool_.Form3.resources
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\obj\Debug\WindowsFormsApp(CPTool).csproj.GenerateResource.cache
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\bin\Debug\WindowsFormsApp(CPTool).exe.config
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\bin\Debug\WindowsFormsApp(CPTool).exe
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\bin\Debug\WindowsFormsApp(CPTool).pdb
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\obj\Debug\WindowsFormsApp_CPTool_.Properties.Resources.resources
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\obj\Debug\WindowsFormsApp(CPTool).csproj.CoreCompileInputs.cache
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\obj\Debug\WindowsFormsApp(CPTool).exe
+C:\Users\yuma\source\repos\WindowsFormsApp(CPTool) v1.1\WindowsFormsApp(CPTool)\obj\Debug\WindowsFormsApp(CPTool).pdb
